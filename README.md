@@ -1,2 +1,2 @@
 # mytv-box
-record same url
+record some url
